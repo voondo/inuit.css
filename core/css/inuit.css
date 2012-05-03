@@ -140,7 +140,7 @@ textarea{
 Rather than repeating declarations over and over, let’s make a shared section.
 */
 h1,h2,h3,h4,h5,h6,
-ul,ol,dl,p,address,figure,pre,fieldset,table,hr,
+ul,ol,dl,p,address,figure,pre,fieldset,table.std,hr,
 .nav,.island,.media{
 	margin-bottom:24px;
 	margin-bottom:1.5rem;
